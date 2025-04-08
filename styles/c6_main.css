@@ -95,7 +95,7 @@ section h1{
 
 section img{
 	float: right;
-	margin: .70em 0 1em 1.5em;
+	margin: .50em 0 1em 1.5em;
 	border: solid 1px black;
 	padding-bottom: 0;
 }
